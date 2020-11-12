@@ -1,0 +1,609 @@
+@article{RN46,
+   author = {Alphey, L. and Beard, C. B. and Billingsley, P. and Coetzee, M. and Crisanti, A. and Curtis, C. and Eggleston, P. and Godfray, C. and Hemingway, J. and Jacobs-Lorena, M. and James, A. A. and Kafatos, F. C. and Mukwaya, L. G. and Paton, M. and Powell, J. R. and Schneider, W. and Scott, T. W. and Sina, B. and Sinden, R. and Sinkins, S. and Spielman, A. and Touré, Y. and Collins, F. H.},
+   title = {Malaria control with genetically manipulated insect vectors},
+   journal = {Science},
+   volume = {298},
+   number = {5591},
+   pages = {119-21},
+   ISSN = {1095-9203},
+   DOI = {10.1126/science.1078278},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/12364786},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN72,
+   author = {Alphey, N. and Alphey, L. and Bonsall, M. B.},
+   title = {A model framework to estimate impact and cost of genetics-based sterile insect methods for dengue vector control},
+   journal = {PLoS One},
+   volume = {6},
+   number = {10},
+   pages = {e25384},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0025384},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/21998654},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN52,
+   author = {Arora, A. K. and Forshaw, A. and Miller, T. A. and Durvasula, R.},
+   title = {A delivery system for field application of paratransgenic control},
+   journal = {BMC Biotechnol},
+   volume = {15},
+   pages = {59},
+   ISSN = {1472-6750},
+   DOI = {10.1186/s12896-015-0175-3},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/26099939},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN64,
+   author = {Bardosh, K. L. and Ryan, S. J. and Ebi, K. and Welburn, S. and Singer, B.},
+   title = {Addressing vulnerability, building resilience: community-based adaptation to vector-borne diseases in the context of global change},
+   journal = {Infect Dis Poverty},
+   volume = {6},
+   number = {1},
+   pages = {166},
+   ISSN = {2049-9957},
+   DOI = {10.1186/s40249-017-0375-2},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/29228986},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN76,
+   author = {Beard, C. B. and Dotson, E. M. and Pennington, P. M. and Eichler, S. and Cordon-Rosales, C. and Durvasula, R. V.},
+   title = {Bacterial symbiosis and paratransgenic control of vector-borne Chagas disease},
+   journal = {Int J Parasitol},
+   volume = {31},
+   number = {5-6},
+   pages = {621-7},
+   ISSN = {0020-7519},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/11334952},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{RN36,
+   author = {Berasategui, A. and Shukla, S. and Salem, H. and Kaltenpoth, M.},
+   title = {Potential applications of insect symbionts in biotechnology},
+   journal = {Appl Microbiol Biotechnol},
+   volume = {100},
+   number = {4},
+   pages = {1567-77},
+   ISSN = {1432-0614},
+   DOI = {10.1007/s00253-015-7186-9},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/26659224},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN54,
+   author = {Bilgo, E. and Vantaux, A. and Sanon, A. and Ilboudo, S. and Dabiré, R. K. and Jacobs-Lorena, M. and Diabate, A.},
+   title = {Field assessment of potential sugar feeding stations for disseminating bacteria in a paratransgenic approach to control malaria},
+   journal = {Malar J},
+   volume = {17},
+   number = {1},
+   pages = {367},
+   ISSN = {1475-2875},
+   DOI = {10.1186/s12936-018-2516-x},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30333029},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN44,
+   author = {Bradshaw, W. E. and Burkhart, J. and Colbourne, J. K. and Borowczak, R. and Lopez, J. and Denlinger, D. L. and Reynolds, J. A. and Pfrender, M. E. and Holzapfel, C. M.},
+   title = {Evolutionary transition from blood feeding to obligate nonbiting in a mosquito},
+   journal = {Proc Natl Acad Sci U S A},
+   volume = {115},
+   number = {5},
+   pages = {1009-1014},
+   ISSN = {1091-6490},
+   DOI = {10.1073/pnas.1717502115},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/29255013},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN45,
+   author = {Brenton, A. A. and Souvannaseng, L. and Cheung, K. and Anishchenko, M. and Brault, A. C. and Luckhart, S.},
+   title = {Engineered single nucleotide polymorphisms in the mosquito MEK docking site alter Plasmodium berghei development in Anopheles gambiae},
+   journal = {Parasit Vectors},
+   volume = {7},
+   pages = {287},
+   ISSN = {1756-3305},
+   DOI = {10.1186/1756-3305-7-287},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/24957684},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN78,
+   author = {Brown, A. E. and Bugeon, L. and Crisanti, A. and Catteruccia, F.},
+   title = {Stable and heritable gene silencing in the malaria vector Anopheles stephensi},
+   journal = {Nucleic Acids Res},
+   volume = {31},
+   number = {15},
+   pages = {e85},
+   ISSN = {1362-4962},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/12888537},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN65,
+   author = {Bueno-Marí, R. and Jiménez-Peydró, R.},
+   title = {Global change and human vulnerability to vector-borne diseases},
+   journal = {Front Physiol},
+   volume = {4},
+   pages = {158},
+   ISSN = {1664-042X},
+   DOI = {10.3389/fphys.2013.00158},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/23825463},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN61,
+   author = {BUSH, G. L. and CHAPMAN, G. B.},
+   title = {Electron microscopy of symbiotic bacteria in developing oocytes of the American cockroach, Periplaneta americana},
+   journal = {J Bacteriol},
+   volume = {81},
+   pages = {267-76},
+   ISSN = {0021-9193},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/13689352},
+   year = {1961},
+   type = {Journal Article}
+}
+
+@article{RN39,
+   author = {Chevrette, M. G. and Carlson, C. M. and Ortega, H. E. and Thomas, C. and Ananiev, G. E. and Barns, K. J. and Book, A. J. and Cagnazzo, J. and Carlos, C. and Flanigan, W. and Grubbs, K. J. and Horn, H. A. and Hoffmann, F. M. and Klassen, J. L. and Knack, J. J. and Lewin, G. R. and McDonald, B. R. and Muller, L. and Melo, W. G. P. and Pinto-Tomás, A. A. and Schmitz, A. and Wendt-Pienkowski, E. and Wildman, S. and Zhao, M. and Zhang, F. and Bugni, T. S. and Andes, D. R. and Pupo, M. T. and Currie, C. R.},
+   title = {The antimicrobial potential of Streptomyces from insect microbiomes},
+   journal = {Nat Commun},
+   volume = {10},
+   number = {1},
+   pages = {516},
+   ISSN = {2041-1723},
+   DOI = {10.1038/s41467-019-08438-0},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30705269},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN51,
+   author = {Coutinho-Abreu, I. V. and Zhu, K. Y. and Ramalho-Ortigao, M.},
+   title = {Transgenesis and paratransgenesis to control insect-borne diseases: current status and future challenges},
+   journal = {Parasitol Int},
+   volume = {59},
+   number = {1},
+   pages = {1-8},
+   ISSN = {1873-0329},
+   DOI = {10.1016/j.parint.2009.10.002},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/19819346},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{RN69,
+   author = {Crotti, E. and Balloi, A. and Hamdi, C. and Sansonno, L. and Marzorati, M. and Gonella, E. and Favia, G. and Cherif, A. and Bandi, C. and Alma, A. and Daffonchio, D.},
+   title = {Microbial symbionts: a resource for the management of insect-related problems},
+   journal = {Microb Biotechnol},
+   volume = {5},
+   number = {3},
+   pages = {307-17},
+   ISSN = {1751-7915},
+   DOI = {10.1111/j.1751-7915.2011.00312.x},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/22103294},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN75,
+   author = {Crotti, E. and Damiani, C. and Pajoro, M. and Gonella, E. and Rizzi, A. and Ricci, I. and Negri, I. and Scuppa, P. and Rossi, P. and Ballarini, P. and Raddadi, N. and Marzorati, M. and Sacchi, L. and Clementi, E. and Genchi, M. and Mandrioli, M. and Bandi, C. and Favia, G. and Alma, A. and Daffonchio, D.},
+   title = {Asaia, a versatile acetic acid bacterial symbiont, capable of cross-colonizing insects of phylogenetically distant genera and orders},
+   journal = {Environ Microbiol},
+   volume = {11},
+   number = {12},
+   pages = {3252-64},
+   ISSN = {1462-2920},
+   DOI = {10.1111/j.1462-2920.2009.02048.x},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/19735280},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN42,
+   author = {Dennison, N. J. and Jupatanakul, N. and Dimopoulos, G.},
+   title = {The mosquito microbiota influences vector competence for human pathogens},
+   journal = {Curr Opin Insect Sci},
+   volume = {3},
+   pages = {6-13},
+   ISSN = {2214-5745},
+   DOI = {10.1016/j.cois.2014.07.004},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/25584199},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN60,
+   author = {Dorta, D. M. and Vasuki, V. and Rajavel, A.},
+   title = {Evaluation of organophosphorus and synthetic pyrethroid insecticides against six vector mosquitoe species},
+   journal = {Rev Saude Publica},
+   volume = {27},
+   number = {6},
+   pages = {391-7},
+   ISSN = {0034-8910},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/7997809},
+   year = {1993},
+   type = {Journal Article}
+}
+
+@article{RN48,
+   author = {Douglas, A. E.},
+   title = {Symbiotic microorganisms: untapped resources for insect pest control},
+   journal = {Trends Biotechnol},
+   volume = {25},
+   number = {8},
+   pages = {338-42},
+   ISSN = {0167-7799},
+   DOI = {10.1016/j.tibtech.2007.06.003},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/17576018},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN32,
+   author = {Douglas, A. E.},
+   title = {Lessons from studying insect symbioses},
+   journal = {Cell Host Microbe},
+   volume = {10},
+   number = {4},
+   pages = {359-67},
+   ISSN = {1934-6069},
+   DOI = {10.1016/j.chom.2011.09.001},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/22018236},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{RN49,
+   author = {Durvasula, R. V. and Gumbs, A. and Panackal, A. and Kruglov, O. and Aksoy, S. and Merrifield, R. B. and Richards, F. F. and Beard, C. B.},
+   title = {Prevention of insect-borne disease: an approach using transgenic symbiotic bacteria},
+   journal = {Proc Natl Acad Sci U S A},
+   volume = {94},
+   number = {7},
+   pages = {3274-8},
+   ISSN = {0027-8424},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/9096383},
+   year = {1997},
+   type = {Journal Article}
+}
+
+@article{RN73,
+   author = {Eliades, M. J. and Alombah, F. and Wun, J. and Burnett, S. M. and Clark, T. and Ntumy, R. and Chikoko, A. and Onditi, S. and Mkomwa, Z. and Makanka, D. and Hamilton, P.},
+   title = {Perspectives on Implementation Considerations and Costs of Malaria Case Management Supportive Supervision},
+   journal = {Am J Trop Med Hyg},
+   ISSN = {1476-1645},
+   DOI = {10.4269/ajtmh.18-0362},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30793689},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN71,
+   author = {Ito, J. and Ghosh, A. and Moreira, L. A. and Wimmer, E. A. and Jacobs-Lorena, M.},
+   title = {Transgenic anopheline mosquitoes impaired in transmission of a malaria parasite},
+   journal = {Nature},
+   volume = {417},
+   number = {6887},
+   pages = {452-5},
+   ISSN = {0028-0836},
+   DOI = {10.1038/417452a},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/12024215},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN59,
+   author = {Kambris, Z. and Cook, P. E. and Phuc, H. K. and Sinkins, S. P.},
+   title = {Immune activation by life-shortening Wolbachia and reduced filarial competence in mosquitoes},
+   journal = {Science},
+   volume = {326},
+   number = {5949},
+   pages = {134-6},
+   ISSN = {1095-9203},
+   DOI = {10.1126/science.1177531},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/19797660},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN63,
+   author = {Knudsen, A. B. and Slooff, R.},
+   title = {Vector-borne disease problems in rapid urbanization: new approaches to vector control},
+   journal = {Bull World Health Organ},
+   volume = {70},
+   number = {1},
+   pages = {1-6},
+   ISSN = {0042-9686},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/1568273},
+   year = {1992},
+   type = {Journal Article}
+}
+
+@article{RN33,
+   author = {Kobiałka, M. and Michalik, A. and Walczak, M. and Szklarzewicz, T.},
+   title = {Dual "Bacterial-Fungal" Symbiosis in Deltocephalinae Leafhoppers (Insecta, Hemiptera, Cicadomorpha: Cicadellidae)},
+   journal = {Microb Ecol},
+   volume = {75},
+   number = {3},
+   pages = {771-782},
+   ISSN = {1432-184X},
+   DOI = {10.1007/s00248-017-1075-y},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/28939987},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN53,
+   author = {Mancini, M. V. and Spaccapelo, R. and Damiani, C. and Accoti, A. and Tallarita, M. and Petraglia, E. and Rossi, P. and Cappelli, A. and Capone, A. and Peruzzi, G. and Valzano, M. and Picciolini, M. and Diabaté, A. and Facchinelli, L. and Ricci, I. and Favia, G.},
+   title = {Paratransgenesis to control malaria vectors: a semi-field pilot study},
+   journal = {Parasit Vectors},
+   volume = {9},
+   pages = {140},
+   ISSN = {1756-3305},
+   DOI = {10.1186/s13071-016-1427-3},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/26965746},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN35,
+   author = {Martinez, A. F. C. and de Almeida, L. G. and Moraes, L. A. B. and Cônsoli, F. L.},
+   title = {Tapping the biotechnological potential of insect microbial symbionts: new insecticidal porphyrins},
+   journal = {BMC Microbiol},
+   volume = {17},
+   number = {1},
+   pages = {143},
+   ISSN = {1471-2180},
+   DOI = {10.1186/s12866-017-1054-y},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/28655338},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN77,
+   author = {Martinez, A. F. C. and de Almeida, L. G. and Moraes, L. A. B. and Cônsoli, F. L.},
+   title = {Tapping the biotechnological potential of insect microbial symbionts: new insecticidal porphyrins},
+   journal = {BMC Microbiol},
+   volume = {17},
+   number = {1},
+   pages = {143},
+   ISSN = {1471-2180},
+   DOI = {10.1186/s12866-017-1054-y},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/28655338},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN70,
+   author = {Marzorati, M. and Alma, A. and Sacchi, L. and Pajoro, M. and Palermo, S. and Brusetti, L. and Raddadi, N. and Balloi, A. and Tedeschi, R. and Clementi, E. and Corona, S. and Quaglino, F. and Bianco, P. A. and Beninati, T. and Bandi, C. and Daffonchio, D.},
+   title = {A novel Bacteroidetes symbiont is localized in Scaphoideus titanus, the insect vector of Flavescence dorée in Vitis vinifera},
+   journal = {Appl Environ Microbiol},
+   volume = {72},
+   number = {2},
+   pages = {1467-75},
+   ISSN = {0099-2240},
+   DOI = {10.1128/AEM.72.2.1467-1475.2006},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/16461701},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN41,
+   author = {Nikolouli, K. and Colinet, H. and Renault, D. and Enriquez, T. and Mouton, L. and Gibert, P. and Sassu, F. and Cáceres, C. and Stauffer, C. and Pereira, R. and Bourtzis, K.},
+   title = {Sterile insect technique and},
+   journal = {J Pest Sci (2004)},
+   volume = {91},
+   number = {2},
+   pages = {489-503},
+   ISSN = {1612-4758},
+   DOI = {10.1007/s10340-017-0944-y},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/29568248},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN58,
+   author = {Rami, A. and Raz, A. and Zakeri, S. and Dinparast Djadid, N.},
+   title = {Isolation and identification of Asaia sp. in Anopheles spp. mosquitoes collected from Iranian malaria settings: steps toward applying paratransgenic tools against malaria},
+   journal = {Parasit Vectors},
+   volume = {11},
+   number = {1},
+   pages = {367},
+   ISSN = {1756-3305},
+   DOI = {10.1186/s13071-018-2955-9},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/29950179},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN57,
+   author = {Rangberg, A. and Mathiesen, G. and Amdam, G. V. and Diep, D. B.},
+   title = {The paratransgenic potential of Lactobacillus kunkeei in the honey bee Apis mellifera},
+   journal = {Benef Microbes},
+   volume = {6},
+   number = {4},
+   pages = {513-23},
+   ISSN = {1876-2891},
+   DOI = {10.3920/BM2014.0115},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/25609652},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN62,
+   author = {RIZKI, M. T.},
+   title = {Desoxyribose nucleic acid in the symbiotic microorganisms of the cockroach, Blattella germanica},
+   journal = {Science},
+   volume = {120},
+   number = {3105},
+   pages = {35-6},
+   ISSN = {0036-8075},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/13168392},
+   year = {1954},
+   type = {Journal Article}
+}
+
+@article{RN67,
+   author = {Shidrawi, G. R.},
+   title = {A WHO global programme for monitoring vector resistance to pesticides},
+   journal = {Bull World Health Organ},
+   volume = {68},
+   number = {4},
+   pages = {403-8},
+   ISSN = {0042-9686},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/2208555},
+   year = {1990},
+   type = {Journal Article}
+}
+
+@article{RN43,
+   author = {Souvannaseng, L. and Hun, L. V. and Baker, H. and Klyver, J. M. and Wang, B. and Pakpour, N. and Bridgewater, J. M. and Napoli, E. and Giulivi, C. and Riehle, M. A. and Luckhart, S.},
+   title = {Inhibition of JNK signaling in the Asian malaria vector Anopheles stephensi extends mosquito longevity and improves resistance to Plasmodium falciparum infection},
+   journal = {PLoS Pathog},
+   volume = {14},
+   number = {11},
+   pages = {e1007418},
+   ISSN = {1553-7374},
+   DOI = {10.1371/journal.ppat.1007418},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30496310},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN66,
+   author = {Sutherst, R. W.},
+   title = {Global change and human vulnerability to vector-borne diseases},
+   journal = {Clin Microbiol Rev},
+   volume = {17},
+   number = {1},
+   pages = {136-73},
+   ISSN = {0893-8512},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/14726459},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{RN55,
+   author = {Tikhe, C. V. and Martin, T. M. and Howells, A. and Delatte, J. and Husseneder, C.},
+   title = {Assessment of genetically engineered Trabulsiella odontotermitis as a 'Trojan Horse' for paratransgenesis in termites},
+   journal = {BMC Microbiol},
+   volume = {16},
+   number = {1},
+   pages = {202},
+   ISSN = {1471-2180},
+   DOI = {10.1186/s12866-016-0822-4},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27595984},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN56,
+   author = {Tikhe, C. V. and Sethi, A. and Delatte, J. and Husseneder, C.},
+   title = {Isolation and assessment of gut bacteria from the Formosan subterranean termite, Coptotermes formosanus (Isoptera: Rhinotermitidae), for paratransgenesis research and application},
+   journal = {Insect Sci},
+   volume = {24},
+   number = {1},
+   pages = {93-102},
+   ISSN = {1744-7917},
+   DOI = {10.1111/1744-7917.12282},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/26477889},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN68,
+   author = {Trivedi, P. and Trivedi, C. and Grinyer, J. and Anderson, I. C. and Singh, B. K.},
+   title = {Harnessing Host-Vector Microbiome for Sustainable Plant Disease Management of Phloem-Limited Bacteria},
+   journal = {Front Plant Sci},
+   volume = {7},
+   pages = {1423},
+   ISSN = {1664-462X},
+   DOI = {10.3389/fpls.2016.01423},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27746788},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN38,
+   author = {Wang, L. and Feng, Y. and Tian, J. and Xiang, M. and Sun, J. and Ding, J. and Yin, W. B. and Stadler, M. and Che, Y. and Liu, X.},
+   title = {Farming of a defensive fungal mutualist by an attelabid weevil},
+   journal = {ISME J},
+   volume = {9},
+   number = {8},
+   pages = {1793-801},
+   ISSN = {1751-7370},
+   DOI = {10.1038/ismej.2014.263},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/25658054},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN37,
+   author = {Wielkopolan, B. and Obrępalska-Stęplowska, A.},
+   title = {Three-way interaction among plants, bacteria, and coleopteran insects},
+   journal = {Planta},
+   volume = {244},
+   number = {2},
+   pages = {313-32},
+   ISSN = {1432-2048},
+   DOI = {10.1007/s00425-016-2543-1},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/27170360},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN50,
+   author = {Wilke, A. B. and Marrelli, M. T.},
+   title = {Paratransgenesis: a promising new strategy for mosquito vector control},
+   journal = {Parasit Vectors},
+   volume = {8},
+   pages = {342},
+   ISSN = {1756-3305},
+   DOI = {10.1186/s13071-015-0959-2},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/26104575},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN34,
+   author = {Xie, S. and Lan, Y. and Sun, C. and Shao, Y.},
+   title = {Insect microbial symbionts as a novel source for biotechnology},
+   journal = {World J Microbiol Biotechnol},
+   volume = {35},
+   number = {2},
+   pages = {25},
+   ISSN = {1573-0972},
+   DOI = {10.1007/s11274-019-2599-8},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30666424},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN74,
+   author = {Yoshida, S. and Ioka, D. and Matsuoka, H. and Endo, H. and Ishii, A.},
+   title = {Bacteria expressing single-chain immunotoxin inhibit malaria parasite development in mosquitoes},
+   journal = {Mol Biochem Parasitol},
+   volume = {113},
+   number = {1},
+   pages = {89-96},
+   ISSN = {0166-6851},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/11254957},
+   year = {2001},
+   type = {Journal Article}
+}
+
