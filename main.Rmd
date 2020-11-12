@@ -4,8 +4,8 @@ author: "Daniel Sproston"
 date: "04/11/2020"
 output:
   bookdown::html_document2: default
-   bookdown::word_document2: default
-    bookdown::pdf_document2: default
+  bookdown::word_document2: default
+  bookdown::pdf_document2: default
 #bibliography: reference.bib
 ---
 
@@ -44,7 +44,7 @@ chaff <- gather(data = chaff1, key = "sex", value = "mass")
 ```
 #Add a code chunk to create function for calculating the SS(x) of all the mass values. You should be able to call it with
 
-```{r Data SSx}
+```{r Data mass}
 sum(chaff$mass)
 ```
 
@@ -55,7 +55,7 @@ sum(chaff$mass)
 
 sum_sq(chaff, mass)
 ```
-```{r Data SSx}
+```{r Data SSx extra}
 sum_sq <- function(df, measure, group) {
   df %>% group_by({{ group }}) %>% 
     summarise(ss = sum(({{measure}} - mean({{measure}}))^2))
