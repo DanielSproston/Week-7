@@ -48,6 +48,14 @@ chaff <- gather(data = chaff1, key = "sex", value = "mass")
 ```
 
 
+```{r out.width="30%", fig.cap="Male Finch."}
+knitr::include_graphics("../Week-7/Bullfinch_male.jpg")
+```
+
+```{r out.width="30%", fig.cap="Female Finch."}
+knitr::include_graphics("../Week-7/Pyrrhula_pyrrhula_female_2.jpg")
+```
+
 ```{r Data mass}
 sum(chaff$mass)
 ```
@@ -68,10 +76,12 @@ sum_sq <- function(df, measure, group) {
 sum_sq(chaff, mass, sex)
 ```
 
-```{r Data table}
+```{r chaff-fig, fig.cap="Mass of male and female Chaffinches"}
 ggplot(data = chaff, aes(x = sex, y = mass)) +
   geom_bar(stat = "identity")
 ```
+See Figure \@ref(fig:myo-fig)
 
+(ref:chaff-fig) Mass of male and female Chaffinches
 
 ## Reference
