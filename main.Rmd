@@ -2,8 +2,13 @@
 title: "Chaff"
 author: "Daniel Sproston"
 date: "04/11/2020"
-output: html_document
+output:
+  bookdown::html_document2: default
+   bookdown::word_document2: default
+    bookdown::pdf_document2: default
+#bibliography: reference.bib
 ---
+
 ##Setup
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, 
@@ -23,6 +28,10 @@ library(stringr)
 library(forcats)
 library(janitor)
 library(multiway)
+library(citr)
+library(kableExtra)
+library(flextable)
+library(gt)
 ```
 
 ```{r Data}
