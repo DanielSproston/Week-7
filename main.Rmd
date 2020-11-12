@@ -40,10 +40,13 @@ setwd("~/University/Data Analysis Y4/chaffworkshop")
 chaff1 <- read.table("chaff.txt", header = T) 
 ```
 
+# Introduction
+Just ramble on this unscientific, hard to reference article,  [@European_Patent_Office_undated-ek]
+
 ```{r Data tidy}
 chaff <- gather(data = chaff1, key = "sex", value = "mass")
 ```
-#Add a code chunk to create function for calculating the SS(x) of all the mass values. You should be able to call it with
+
 
 ```{r Data mass}
 sum(chaff$mass)
@@ -64,7 +67,11 @@ sum_sq <- function(df, measure, group) {
 
 sum_sq(chaff, mass, sex)
 ```
-# Introduction
-Just ramble on this unscientific, hard to reference article,  [@European_Patent_Office_undated-ek]
 
-### Reference
+```{r Data table}
+ggplot(data = chaff, aes(x = sex, y = mass)) +
+  geom_bar(stat = "identity")
+```
+
+
+## Reference
